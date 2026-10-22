@@ -1,0 +1,40 @@
+# Unity generated data and local editor state
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity / IDE generated project files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.sln.docstates
+
+# IDE settings and caches
+.vs/
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity Asset Store Tools cache
+Assets/AssetStoreTools*
