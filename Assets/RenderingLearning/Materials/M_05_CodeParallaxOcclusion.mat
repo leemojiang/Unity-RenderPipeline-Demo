@@ -33,9 +33,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ParallaxScale: 0.035
-    - _MinSteps: 8
-    - _MaxSteps: 32
+    - _MaxSteps: 13
+    - _MinSteps: 4
+    - _ParallaxScale: 0.0426
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
